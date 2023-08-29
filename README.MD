@@ -54,13 +54,6 @@ O objetivo principal deste projeto é criar um sistema de extração automática
    - participacao.codigo
    - codigo
 
-## Opcional
-
-- Aplicação de testes unitários.
-- Documentação detalhada do projeto, incluindo instruções para configuração e execução.
-- Integração contínua para garantir a estabilidade do sistema ao longo do tempo.
-
-
 # Telas
 
 ## Listagem dos Processos
@@ -79,3 +72,8 @@ Para visualizar os itens de um processo específico, siga os passos abaixo:
 Isso permitirá que você visualize detalhes específicos de um processo após acessar a listagem completa.
 
 
+## Opcional
+
+- Aplicação de testes unitários.
+- Documentação detalhada do projeto, incluindo instruções para configuração e execução.
+- Integração contínua para garantir a estabilidade do sistema ao longo do tempo.
